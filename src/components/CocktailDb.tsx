@@ -29,7 +29,7 @@ const CocktailSearch: React.FC = () => {
 
   return (
     <div style={{ textAlign: 'center' }}>
-      <h1>Vyhledávač koktejlů</h1>
+      <h1>Koktejly</h1>
       <input
         type="text"
         value={search}
